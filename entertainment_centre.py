@@ -27,7 +27,7 @@ avengers_age_of_ultron = media.Movie(
     """When Tony Stark jump-starts a dormant peacekeeping program, things go
     terribly awry, forcing him, Thor (Chris Hemsworth), the Incredible Hulk and
     the rest of the Avengers to reassemble.""",
-    "https://upload.wikimedia.org/wikipedia/en/1/1b/Avengers_Age_ofUltron.jpg",
+    "https://upload.wikimedia.org/wikipedia/en/1/1b/Avengers_Age_of_Ultron.jpg",
     "https://www.youtube.com/watch?v=tmeOjFno6Do")
 
 """List of movies used to generate the html page."""
